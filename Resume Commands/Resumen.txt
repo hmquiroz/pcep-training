@@ -1,0 +1,30 @@
+INSTALL REQUESTS
+pip --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org install requests
+
+INSTALL BROWSER-COOKIE3
+pip --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org install browser-cookie3
+
+UPGRADE PIP VERSION
+C:\Users\s95830\AppData\Local\Programs\Python\Python39\python.exe -m pip --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org  install --upgrade pip
+
+EJECUTAR PROGRAMA PYTHON
+python --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org "d:/WORKSPACE GITHUB/pcep-training/Examples/ExtractCookie.py"
+py --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org .\Examples\ExtractCookie-BrowserCookie.py
+
+ERRORES:
+(Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate
+pip --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org install pip-system-certs
+
+Python pip install connection error SSL CERTIFICATE_VERIFY_FAILED certificate verify failed
+URL: https://jhooq.com/pip-install-connection-error/
+pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pip setuptools
+
+-----------------
+PIP COMMANDS
+-----------------
+Listar librerias instaladas: pip list -v
+Ver Detalle de una libreria: pip show pywin32
+Vesion de PIP: 
+  python -m pip show pip
+  pip show pip
+
