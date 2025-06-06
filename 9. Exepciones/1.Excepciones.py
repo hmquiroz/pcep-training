@@ -24,7 +24,7 @@ Es la clase base para todas las excepciones de errores de búsqueda. Algunas exc
 Esta excepción se lanza cuando se intenta acceder a un índice de una secuencia que está fuera de los límites.
 '''
 lista = [1, 2, 3]
-print(lista[3])  # Lanza IndexError: list index out of range
+print(lista[2])  # Lanza IndexError: list index out of range
 
 '''KeyError:
 Esta excepción se lanza cuando se intenta acceder a una clave que no existe en un diccionario.'''

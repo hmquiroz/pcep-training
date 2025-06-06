@@ -28,3 +28,5 @@ Vesion de PIP:
   python -m pip show pip
   pip show pip
 
+pyenv for Windows
+https://github.com/pyenv-win/pyenv-win
